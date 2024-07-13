@@ -4,7 +4,7 @@ Repo for all my assignment code while learning Web development from The Odin Pro
 
 ### Assignments
 **Foundations Course**
-- [ ]  **Recipes** 
+- [X]  **Recipes** 
 - [ ]  **Landing Page**
 - [ ]  **Etch-a-Sketch**
 - [ ]  **Calculator**
